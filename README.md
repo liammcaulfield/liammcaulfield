@@ -1,5 +1,6 @@
-![image](https://user-images.githubusercontent.com/108194679/222015726-e3fec3ab-d222-4f54-a771-0d57f4139646.png)
+![image](./github-header-image.png)
 
+Hi there! I'm Liam. I am a data analyst who is passionate about environmental and social justice causes. I am in the process of obtaining my M.S. in Information Management with a specialization in Data Science from the University of Washington. I spend my days working as a Database Administrator at Morris Animal Foundation in Denver, CO
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
